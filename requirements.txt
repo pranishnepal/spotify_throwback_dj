@@ -1,0 +1,5 @@
+requests~=2.25.1
+python-dotenv~=0.15.0
+PyContracts~=1.8.12
+beautifulsoup4~=4.9.3
+spotipy~=2.17.1
