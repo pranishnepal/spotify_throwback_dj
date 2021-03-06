@@ -4,6 +4,8 @@ With <b>spotify_throwback_dj,</b> users can create a spotify playlist with Billb
 
 Simply enter your preferred date in YYYY-MM-DD format and <b>spotify_throwback_dj</b> creates a new playlist with Billboard's top 100 songs for that date!
 
+<b>spotify_throwback_dj</b> scrapes data from billboards top 100 charts
+
 ## Usage
 ```bash
 python3 main.py
